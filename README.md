@@ -6,12 +6,12 @@
 
 ## ✨ Features
 
-- 🔍 **AI Summarization** — Quickly digest the key points of any webpage
-- 📚 **Flashcard Generation** — Turn summaries into study-ready flashcards
-- 🧾 **History Log** — View and manage previous summaries and flashcards
-- 🎤 **Presentation Creator** — Transform content into ready-made presentation slides
-- 🌐 **Multi-language Support** — Summaries and flashcards in your preferred language
-- 🔐 **User Authentication** — Sign up and log in for a personalized experience
+-  **AI Summarization** — Quickly digest the key points of any webpage
+-  **Flashcard Generation** — Turn summaries into study-ready flashcards
+-  **History Log** — View and manage previous summaries and flashcards
+-  **Presentation Creator** — Transform content into ready-made presentation slides
+-  **Multi-language Support** — Summaries and flashcards in your preferred language
+-  **User Authentication** — Sign up and log in for a personalized experience
 
 ---
 
