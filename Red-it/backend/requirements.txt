@@ -1,0 +1,14 @@
+Run the following commands to install the required packages (if not already installed):
+    1. pip install fastapi[all]
+    2. pip install fastapi "uvicorn[standard]"
+    3. pip install motor
+    4. pip install pydantic
+    5. pip install tiktoken
+    6. python -m venv openai-env
+       openai-env\Scripts\activate
+       pip install --upgrade openai
+
+
+To run the server, run the following command:
+python -m uvicorn server:app --reload
+
