@@ -117,27 +117,13 @@ Once logged in, the **Dashboard** acts as your central hub for all Red-it's powe
 
 ---
 
-## 💻 Tech Stack
+## 🖥️ Tech Stack
 
-Red-it is built using a modern and robust full-stack architecture:
-
-* **Frontend:**
-    * **React:** For building a dynamic and responsive user interface for the browser extension.
-    * **JavaScript (ES6+):** Core language for frontend logic.
-    * **HTML5 & CSS3:** For structuring and styling the extension's UI.
-* **Backend:**
-    * **FastAPI:** A modern, fast (high-performance) web framework for building robust APIs with Python 3.7+.
-    * **Python:** The primary language for backend development.
-    * **MongoDB:** A NoSQL database used for flexible and scalable data storage (user profiles, history, flashcards).
-* **APIs & Libraries:**
-    * **OpenAI GPT-3.5 API:** Powers the core intelligent summarization and content generation features.
-    * **Pydantic:** For data validation and settings management in the backend.
-    * **Requests:** For making HTTP requests (e.g., web scraping, API calls).
-    * **BeautifulSoup4 (Implied by `webscraping.py`):** For parsing HTML and extracting data from web pages.
-    * **python-multipart:** For handling form data.
-    * **PyMongo:** Python driver for MongoDB.
-    * **FastAPI-mail:** For email verification.
-    * **Translator (e.g., `googletrans` or similar):** For multi-language support.
+- **Frontend**: React.js
+- **Backend**: FastAPI (Python 3.9+)
+- **Database**: MongoDB
+- **AI Integration**: OpenAI GPT-3.5
+- **Languages**: English + multilingual translation support
 
 ---
 
@@ -157,7 +143,7 @@ Red-it is built using a modern and robust full-stack architecture:
 
 ---
 
-### 🧠 Backend (FastAPI + MongoDB)
+### ⚙️ Backend (FastAPI + MongoDB)
 
 | File                    | Role                                           |
 |-------------------------|------------------------------------------------|
