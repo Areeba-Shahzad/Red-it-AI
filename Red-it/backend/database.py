@@ -2,7 +2,7 @@ from pymongo import MongoClient
 from model import User
 from motor.motor_asyncio import AsyncIOMotorClient
 
-client = AsyncIOMotorClient('mongodb+srv://SE_Project_User:SE_Project2024@mycluster.f64jook.mongodb.net/?retryWrites=true&w=majority&appName=MyCluster')
+client = AsyncIOMotorClient('mongodb+srv://<username>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<your-app-name>')
 db = client['SE_Project']
 collection = db['User Account']
 collection_history = db['History']
