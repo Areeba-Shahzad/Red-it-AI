@@ -8,10 +8,10 @@ Beyond powerful summarization, Red-it offers a comprehensive suite of integrated
 
 --- 
 
-<p align="center">
-  <img src="Brochure/Brochure SE-1.png" alt="Red-it Brochure" width="80%">
-  <img src="Brochure/Brochure SE-2.png" alt="Red-it Brochure" width="80%">
-</p>
+<div align="center">
+  <img src="Brochure/Brochure_SE_1.png" alt="Red-it Brochure Page 1" width="45%" style="margin-right: 10px;">
+  <img src="Brochure/Brochure_SE_2.png" alt="Red-it Brochure Page 2" width="45%">
+</div>
 
 ---
 
