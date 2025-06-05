@@ -8,6 +8,13 @@ Beyond powerful summarization, Red-it offers a comprehensive suite of integrated
 
 --- 
 
+<p align="center">
+  <img src="Brochure/Brochure SE-1.png" alt="Red-it Brochure" width="80%">
+  <img src="Brochure/Brochure SE-2.png" alt="Red-it Brochure" width="80%">
+</p>
+
+---
+
 ## 💡 AI Engine
 
 Red-it's core intelligence relies on its **AI Engine**, which uses **OpenAI's GPT-3.5 API (a Large Language Model)**. This AI powers key features:
